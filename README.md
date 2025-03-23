@@ -10,7 +10,7 @@ This repo contains the [Tokyonight](https://github.com/folke/tokyonight.nvim) th
 
 ## Help, the background is weird
 If you are usign ur terminal with blur or anything you might see on cava a solid color background instead of being blurred with x opacity.
-To fix this simply go to ```[color]``` and where it says ```background``` and add a ; in the begining 
+To fix this simply go to ```[color]``` and where it says ```background``` and add a ; in the beginning 
 
 ## Where do i find Moon, Storm and/or Day variant :(
 so uhh, i haven't done them yet... you will have to wait a bit
