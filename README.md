@@ -16,5 +16,5 @@ To fix this simply go to ```[color]``` and where it says ```background``` and ad
 so uhh, i haven't done them yet... you will have to wait a bit
 
 ## Legal
-Tokyonight (c) folke for making the theme. [License](Tokyonight_LICENSE)
+Tokyonight (c) folke for making the theme. [License](Tokyonight_LICENSE).
 The contents in this repo are licenced under [MIT License](LICENSE)
