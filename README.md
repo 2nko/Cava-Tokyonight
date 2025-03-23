@@ -2,7 +2,7 @@
 This repo contains the [Tokyonight](https://github.com/folke/tokyonight.nvim) theme for cava!
 
 ## How do i apply this??
-1. Open the theme file in this repo and copy it's contents
+1. Open the theme you want from [themes](themes) and copy it's contents
 2. Open in your system the file ```~/.config/cava/config``` with your favourite editor and go down to whwere it says ```[color]```
 3. Delete the color section and ONLY THE COLOR SECTION (stop at smoothing)
 4. Paste what you copied from step 1 and make sure you save before exiting
