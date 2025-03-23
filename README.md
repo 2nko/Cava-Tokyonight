@@ -1,4 +1,4 @@
-# Tokyomight theme for cava
+# Tokyonight theme for cava
 This repo contains the [Tokyonight](https://github.com/folke/tokyonight.nvim) theme for cava!
 
 ## How do i apply this??
