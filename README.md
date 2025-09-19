@@ -15,6 +15,6 @@ To fix this simply go to ```[color]``` and where it says ```background``` and ad
 ## Where do i find Moon, Storm and/or Day variant :(
 so uhh, i haven't done them yet... you will have to wait a bit
 
-## Legal
-Tokyonight (c) folke for making the theme. [License](Tokyonight_LICENSE).
-The contents in this repo are licenced under [MIT License](LICENSE)
+## Misc
+Obviously this theme takes inspiration from the tokyonight neovim theme and vscode theme, thus thanks to enkia (vscode) and folke (nvim) for this cool colorscheme theme thing.
+About the other colours it is a small change I will do when I uh.. remember about it that isn't right before i go to sleep... Sorry :/
