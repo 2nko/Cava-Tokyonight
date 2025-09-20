@@ -1,5 +1,6 @@
 # Tokyonight theme for cava
 This repo contains the [Tokyonight](https://github.com/folke/tokyonight.nvim) theme for cava!
+![Screenshot of cava with TokyoNight Night Colorscheme](Screenshot.png)
 
 ## How do i apply this??
 1. Open the theme you want from [themes](themes) and copy it's contents
